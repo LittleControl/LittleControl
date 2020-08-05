@@ -1,16 +1,13 @@
-### Hi there 👋
+# 关于我无法承认自己是一介废柴这件事
 
-<!--
-**LittleControl/LittleControl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 姓名: LittleControl Lee
+- 出生年: 1999
+- 性别: Boy
+- 爱好: Front-End, Linux, Fate/Zero, 写日记
+- 习惯
+  - 没有用的东西就会扔掉
+  - 己所不欲,勿施于人
+  - 相信科学,也相信柯学
+  - (`重度妄想症`,`中度拖延症`,`轻度强迫症`) =>  `中度焦虑症(大概,大雾)`
+  - 渴望卫宫切嗣一样的信仰
+- 评价一下自己最近的状态: 游离于颓靡之际,独醉于幻想之中
